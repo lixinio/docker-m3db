@@ -1,0 +1,4 @@
+quay.io/m3db/m3dbnode:v0.10.2
+quay.io/m3db/m3query:v0.10.2
+quay.io/m3db/m3nsch:v0.10.2
+quay.io/m3db/m3coordinator:v0.10.2
